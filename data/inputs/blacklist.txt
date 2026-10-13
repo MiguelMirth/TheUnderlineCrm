@@ -1,0 +1,85 @@
+# Company strings used to skip targets (not full Monday export).
+# Email dedupe uses CRM directly each run.
+
+13th floor capital
+adil and salma rahmathulla
+adler development
+airbnb
+ajnff
+alvah and wyline chapman foundation
+amazon
+amco prh 801 south miami avenue llc
+ami and jack glottmann
+balfour beatty construction
+bank of america
+banyan street capital
+bloomberg philanthropies
+bonnie bernstein dockter and peter dockter
+brickell arch
+catalyst griffin
+chewy
+christina and david martin
+citadel securities
+comras family foundation
+cowles charitable trust
+daly family fund
+diagnostic centers
+dunspaugh-dalton foundation
+florida blue
+goldman sachs
+greenberg traurig
+gt greenbergtraurig
+health foundation of south florida
+health resources and services administration
+hearst foundations
+honda usa foundation
+hrsa
+inter
+inter miami
+inter miami cf
+irma and norman braman family foundation
+james corner field operations
+jayusia and alan bernstein
+jeff berkowitz
+jpmorgan chase
+judy and jon zeder
+knight foundation
+leesfield family foundation
+lefrak
+lucas hernandez
+mary brickell village
+mental health clinics
+miami-dade county
+microsoft
+national institutes of health
+niantic
+novotel miami brickell
+nri investment development management
+nv2a group
+parc brickell one llc
+pinnacle financial partners
+polly and peter appel
+publix charities
+rbb communications
+rilea park llc
+robin tassler and roger terrone
+rockpoint
+samhsa
+shepard broad foundation
+sls lux brickell
+south florida baptist health
+spirit charitable foundation
+steven j. wernick
+substance abuse and mental health services administration
+tara solomon, inc.
+td bank
+terra
+the arden and jack karson philanthropic fund
+the children's trust
+the clinton family fund
+the frederick a. deluca foundation
+the honorable donna e. shalala
+the kirk foundation
+the louis wolfson iii family foundation
+the miami foundation
+zully and frank castro

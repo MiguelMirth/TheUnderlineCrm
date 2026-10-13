@@ -1,0 +1,241 @@
+﻿================================================================================
+THE UNDERLINE — OUTREACH EMAIL TEMPLATES (for Lia review)
+================================================================================
+Prepared: June 2026  |  Sender: Mirth Studio / Frenchy (Gmail via Pulse)
+Merge fields: {pulse.text_mm0xjngp} = first name  |  {pulse.name} = company (Monday item name)
+
+Design notes for Lia:
+- Emails 1–3: same Gmail thread (no deck on touch 1; deck from Email 2).
+- Emails 4–5: NEW thread (fresh subject; polite close / breakup).
+- Tone: colleague checking in, not a blast. Consumer / brand marketing angle where relevant.
+- Past partners named once per email max (Airbnb, Baptist Health, Chewy, Lululemon).
+- Replace [DECK LINK] and [SERIES DECK LINK] with live URLs before send.
+
+================================================================================
+MAIN SEQUENCE — Emails 1–5 (new leads / park partnership)
+================================================================================
+
+--- Email 1 ---
+Purpose: Open the thread. Curiosity + one concrete detail. No attachment or deck.
+
+SUBJECT (pick one):
+  A) Quick question — {pulse.name} + Miami
+  B) {pulse.text_mm0xjngp} — brand activations in Miami?
+  C) The Underline / {pulse.name}
+
+Hi {pulse.text_mm0xjngp},
+
+Quick question: is anyone at {pulse.name} looking at brand or sponsorship activations in Miami this year?
+
+We have a few partnership slots opening at The Underline — the 10-mile park under the Metrorail, Brickell through Coconut Grove — for brands that want people on the ground, not just logo placement. Recent partners include Airbnb, Baptist Health, and Chewy.
+
+If that's in your lane, who owns partnerships or brand marketing on your side? Happy to send a one-pager or do a short call.
+
+Thanks,
+
+
+--- Email 2 ---
+Purpose: Same thread as Email 1. Add proof + deck. Stay under ~120 words.
+
+Hi {pulse.text_mm0xjngp},
+
+Circling back on my note about {pulse.name} and The Underline.
+
+In case it helps before a call: the park sees about 2M visitors a year. Right now we're building out a handful of specific integrations — Urban Gym, playground, River Room, seasonal programming — rather than generic "logo on a banner" packages.
+
+I dropped our brand deck here: [DECK LINK]
+
+Would 15 minutes next week work, or is there someone else I should reach?
+
+Thanks,
+
+
+--- Email 3 ---
+Purpose: Same thread. Light bump; one new detail; don't repeat the full stats block.
+
+SUBJECT: (leave blank — stays in thread)
+
+Hi {pulse.text_mm0xjngp},
+
+Wanted to bump this once in case it landed on a busy week.
+
+We're lining up a few partners for activations this year — events, programming, and on-site presence along the corridor. Lululemon and Chewy are examples of the kind of fit we have in mind for {pulse.name}.
+
+Deck is in my last note if useful. Open to a quick call, or happy to be pointed to the right person if you're not the one.
+
+Thanks,
+
+
+--- Email 4 ---
+Purpose: NEW thread (not a reply). Acknowledge timing; make it easy to say no or pass along.
+
+SUBJECT (pick one):
+  A) Quick follow-up — {pulse.name} + The Underline (Miami)
+  B) {pulse.text_mm0xjngp} — still open to a Miami park chat?
+
+Hi {pulse.text_mm0xjngp},
+
+Checking in one more time on The Underline — totally understand if the timing isn't right.
+
+If {pulse.name} might be interested later in the year, I'm glad to stay in touch. If not, a quick "not us" or an intro to whoever handles experiential or brand partnerships would save us both some inbox noise.
+
+Either way, appreciate it.
+
+Thanks,
+
+
+--- Email 5 ---
+Purpose: NEW thread. Polite close; leave door open; ask for redirect.
+
+SUBJECT (pick one):
+  A) Closing the loop — {pulse.name}
+  B) Last note on The Underline / {pulse.name}
+
+Hi {pulse.text_mm0xjngp},
+
+I'll assume this isn't the right moment for {pulse.name} and won't keep filling your inbox.
+
+If things shift — or if there's a better contact for Miami brand work — I'm easy to reach. Deck's still here: [DECK LINK]
+
+Thanks for your time.
+
+Best,
+
+
+================================================================================
+RE-ENGAGEMENT — Levitt BLOC Music Series (contacts who already got the 5-email park sequence)
+================================================================================
+Use a NEW subject line — do not reuse "Quick question — …" from the main sequence.
+
+--- Concert series — Email 1 ---
+
+SUBJECT (pick one):
+  A) Something new at The Underline this summer — live music
+  B) {pulse.text_mm0xjngp} — different from our last Underline note
+  C) Miami: free concerts along the Underline (Jul–Oct)
+
+Hi {pulse.text_mm0xjngp},
+
+I know we've emailed about The Underline before — the park under the Metrorail — so I'll keep this short.
+
+There's a separate piece we're opening this summer that might fit {pulse.name} better: the Levitt BLOC Music Series. Ten free shows along the corridor, July through October — built for brands that want live music, sampling, and real crowds, not another static park package.
+
+Series deck (dates, venues, how partners show up): [SERIES DECK LINK]
+
+We're only talking to a handful of partners on this one. If live events are more your world, who should I speak with on your team — or happy to do 15 minutes if that's you.
+
+Thanks,
+
+
+--- Concert series — Email 2 ---
+Purpose: Same thread as concert Email 1. Deck already linked above.
+
+Hi {pulse.text_mm0xjngp},
+
+Quick follow-up in case the series deck got buried.
+
+Ten nights across Brickell and Coconut Grove — family programming in August, Caribbean Carnival in early October, then a two-day festival to close the month. Typical nights are roughly 500–1,500 people, with room for F&B and on-site activations.
+
+If a short call next week works, I'm in. If not you, who's the right person to ping?
+
+Thanks,
+
+
+================================================================================
+VENUE RENTAL — Email 1 (Vertical = Venue Rental / new leads)
+================================================================================
+Purpose: Introduce The Underline as a rentable event venue (not sponsorship).
+Sender: Mirth Studio / Frenchy (Gmail). Signature = mailbox default.
+Deck is linked on the words "The Underline" in the second paragraph.
+Deploy via: scripts/send_venue_rental_email1.py  (or Pulse with same copy).
+
+Live deck URL (UNDERLINE_DECK_LINK):
+  https://docsend.com/view/zn4yktywm25267jd
+
+--- Venue Rental Email 1 ---
+
+SUBJECT:
+  The Underline Miami + {pulse.name}
+
+Hi {pulse.text_mm0xjngp},
+
+I'm reaching out to introduce The Underline as a potential venue for upcoming events and brand activations.
+
+The Underline [DECK LINK] is Miami's 10-mile linear park, connecting Brickell, Coconut Grove, Coral Gables, the University of Miami and South Miami, with more than 3 million annual visitors.
+
+The spaces along the park range from outdoor fitness centers, playgrounds and sculpture gardens to plazas, trails and larger gathering areas that can accommodate:
+
+- Corporate and community events
+- Fitness and wellness programming
+- Concerts and cultural events
+- Dinners and culinary experiences
+- Brand activations and product launches
+
+The Underline has hosted programming ranging from concert series and run clubs to The Longest Table, here are a few examples.
+
+- Lululemon Global Run Day 5K & Wellness Party — 600 attendees, DJ, cold plunges, brand activation buildouts
+- Porsche VIP Event — 200 VIP guests including civic leaders
+- Inter Brazil Day — Festival with 6,000+ attendees, vendors, family activities, and full street management
+- Baptist Health Bounce Back From Cancer — Legacy run/walk led by Miami Heat icons with 1,500+ participants
+- Adidas Tumbao — Cultural music experience
+- Let's Get Together Market — Community retail + lifestyle programming
+
+I'd be happy to share more and explore whether any of the spaces could work for events you are currently planning.
+
+Best,
+
+(signature from Frenchy's Gmail)
+
+
+================================================================================
+CONCERT SERIES — Email 1 (Vertical = Concert Series / new leads)
+================================================================================
+Purpose: First-touch for The Underline's Miami Music Series (not park amenities, not
+Levitt re-engagement). No deck URL — ask to share the deck.
+Sender: Mirth Studio / Frenchy (Gmail). Signature = mailbox default.
+Deploy via: scripts/send_concert_series_email1.py
+
+--- Concert Series Email 1 (new leads) ---
+
+SUBJECT:
+  The Underline + {pulse.name} | Miami Music Series
+
+Hi {pulse.text_mm0xjngp},
+
+I'm reaching out to introduce The Underline's Miami Music Series, a new live music platform featuring free public concerts and larger festival experiences.
+
+The Underline is a 10-mile cultural destination connecting Brickell, Coconut Grove, Coral Gables, University of Miami, and South Miami through public spaces, arts, wellness, and community programming.
+
+Our 2026 lineup includes a Caribbean Carnival Concert in early October, followed by The Underline Festival on October 30-31, featuring 6 concerts across our onsite venues.
+
+We think {pulse.name} could be a great fit for the series. Partnership opportunities can include event branding, on-site activations, VIP hospitality, food and beverage integrations, concessions, and digital content.
+
+I'd love to share the deck and explore how we could collab now or in the future.
+
+Best,
+
+(signature from Frenchy's Gmail)
+
+
+================================================================================
+WHAT WE CHANGED (vs. older drafts — for Lia)
+================================================================================
+- Removed "200 million brand impressions" and similar stacked metrics (reads like ad sales).
+- Removed "We truly believe…", "select group of collaborators", "meaningful exposure".
+- Replaced formal openers ("Hello {name},", "I wanted to follow up once more regarding…").
+- No deck on Email 1 (deck from Email 2 onward in main sequence).
+- Unified first name field to {pulse.text_mm0xjngp} throughout.
+- Added Venue Rental Email 1 (Aug 2026) — deck linked on "The Underline" text; separate from sponsorship sequence.
+- Added Concert Series Email 1 (Aug 2026) — Miami Music Series first-touch for new leads; no deck link; not the Levitt re-engagement copy.
+
+================================================================================
+PULSE / MONDAY SETUP REMINDER
+================================================================================
+- Board first name column: text_mm0xjngp
+- Company name on item: {pulse.name}
+- Send Email 2–3 as replies in the same thread as Email 1.
+- Send Email 4–5 as new threads (fresh subject; do not use In-Reply-To).
+- Pulse: configure thread groups accordingly, or use scripts/send_followups_sequence.py for Gmail stages.
+- Venue Rental first touch: scripts/send_venue_rental_email1.py (filter Vertical = Venue Rental).
+- Concert Series first touch: scripts/send_concert_series_email1.py (filter Vertical = Concert Series).
+

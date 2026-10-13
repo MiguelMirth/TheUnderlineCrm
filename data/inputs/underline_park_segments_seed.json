@@ -1,0 +1,205 @@
+[
+  {
+    "segment_id": "brickell_backyard",
+    "name": "Brickell Backyard",
+    "region": "Brickell",
+    "phase": 1,
+    "status": "open",
+    "route": "Miami River to SW 13th Street (Coral Way)",
+    "metrorail": ["Brickell"],
+    "amenities": ["River Room", "Urban Gym"],
+    "notes": "Phase 1 opened Feb 2021. Urban Gym sponsored by Baptist Health; mini-pitch by Swire Properties. Directly beside Brickell financial district.",
+    "search_queries": [
+      "Brickell Backyard Underline Miami corporate offices brand headquarters tenants 2025 2026",
+      "Brickell City Centre Saks Apple lululemon Nike Sephora corporate tenants near Underline",
+      "830 Brickell Citadel headquarters consumer brands tech finance offices Brickell Miami",
+      "Baptist Health Swire Properties brands sponsoring Brickell Backyard Urban Gym Miami"
+    ]
+  },
+  {
+    "segment_id": "river_landing",
+    "name": "Miami River / River Landing",
+    "region": "Brickell / Miami River",
+    "phase": 1,
+    "status": "open",
+    "route": "North tip of Brickell Backyard at Miami River",
+    "metrorail": ["Brickell"],
+    "amenities": ["River Room"],
+    "notes": "River-facing amenity at the north end of Phase 1; mixed-use River Landing / Brickell waterfront office-retail cluster.",
+    "search_queries": [
+      "River Landing Miami Brickell corporate tenants retail brands offices near Underline",
+      "Miami River Brickell waterfront companies brand headquarters near Metrorail Underline",
+      "companies offices near Brickell Metrorail Miami River Underline River Room 2026"
+    ]
+  },
+  {
+    "segment_id": "hammock_trail",
+    "name": "Hammock Trail / Coral Way",
+    "region": "Roads / Shenandoah / Silver Bluff",
+    "phase": 2,
+    "status": "open",
+    "route": "SW 13th Street to SW 19th Avenue",
+    "metrorail": ["Vizcaya"],
+    "amenities": ["Hammock Playground", "Rain Garden"],
+    "notes": "Phase 2 (Hammock Trail) opened April 2024. Connects Brickell Backyard south through Roads/Shenandoah/Silver Bluff toward Vizcaya.",
+    "search_queries": [
+      "Hammock Trail Underline Miami Phase 2 companies offices brands near Coral Way 2024 2026",
+      "Hammock Playground Simpson Park Underline corporate tenants retail brands Miami",
+      "SW 15th Road SW 1st Avenue Miami companies brands offices near Underline Hammock Playground",
+      "Roads Shenandoah Silver Bluff Miami businesses consumer brands near Underline Metrorail"
+    ]
+  },
+  {
+    "segment_id": "vizcaya_station",
+    "name": "Vizcaya Station Plaza",
+    "region": "Vizcaya / North Coconut Grove",
+    "phase": 2,
+    "status": "open",
+    "route": "Vizcaya Metrorail Station / US1 & SW 17th Avenue area",
+    "metrorail": ["Vizcaya"],
+    "amenities": ["Vizcaya Station Plaza", "Rain Garden"],
+    "notes": "Phase 2 plaza at Vizcaya Metrorail; Rain Garden bioswale at US1 and SW 17th Avenue. Gateway between Brickell corridor and Coconut Grove.",
+    "search_queries": [
+      "Vizcaya Station Plaza Underline Miami corporate offices brands near Metrorail 2025 2026",
+      "companies headquarters near Vizcaya Metrorail US1 Miami Underline Rain Garden",
+      "North Coconut Grove corporate tenants consumer brands near Vizcaya Underline",
+      "brands offices near Vizcaya Museum Metrorail Underline Miami sponsorship partners"
+    ]
+  },
+  {
+    "segment_id": "inter_grove_gallery",
+    "name": "Inter Grove Gallery / Golden Pines",
+    "region": "Coconut Grove / Golden Pines",
+    "phase": 3,
+    "status": "open_or_activating",
+    "route": "SW 24th Avenue to SW 27th Avenue along Underline",
+    "metrorail": ["Coconut Grove"],
+    "amenities": ["Inter Grove Gallery"],
+    "notes": "Phase 3 amenity (~150k sq ft community/commercial pop-up gallery) linking Coconut Grove and Golden Pines; dining concessions and cultural events.",
+    "search_queries": [
+      "Inter Grove Gallery Underline Miami brands vendors corporate partners 2025 2026",
+      "Golden Pines Miami companies offices retail brands near Underline SW 24th SW 27th",
+      "Coconut Grove Golden Pines consumer brands food beverage companies near Underline Metrorail",
+      "companies sponsoring Inter Grove Gallery Underline Miami dining concessions brands"
+    ]
+  },
+  {
+    "segment_id": "coconut_grove",
+    "name": "Coconut Grove Station / CocoWalk",
+    "region": "Coconut Grove",
+    "phase": 3,
+    "status": "phase3_construction_2026",
+    "route": "Coconut Grove Metrorail / Grand Avenue / Peacock Park edge",
+    "metrorail": ["Coconut Grove"],
+    "amenities": ["Peacock Park adjacency", "CocoWalk retail"],
+    "notes": "Phase 3 corridor through Coconut Grove toward Dadeland (completion targeted 2026). Strong retail/lifestyle brand density at CocoWalk and Grove business district.",
+    "search_queries": [
+      "Coconut Grove Miami corporate offices brand headquarters near Metrorail Underline 2025 2026",
+      "CocoWalk Coconut Grove retail brands tenants Federal Realty consumer companies Miami",
+      "Coconut Grove Peacock Park companies offices lifestyle CPG beverage brands near Underline",
+      "Bacardi Maybach Bacardi USA Coconut Grove headquarters brands near Underline Miami"
+    ]
+  },
+  {
+    "segment_id": "douglas_road",
+    "name": "Douglas Road / Coral Gables Edge",
+    "region": "Coral Gables",
+    "phase": 3,
+    "status": "phase3_construction_2026",
+    "route": "Douglas Road Metrorail Station along US1 / Underline Phase 3",
+    "metrorail": ["Douglas Road"],
+    "amenities": [],
+    "notes": "Phase 3 links City of Miami into Coral Gables at Douglas Road Metrorail; office and medical/consumer brand density along US1.",
+    "search_queries": [
+      "Douglas Road Metrorail Coral Gables companies offices brands near Underline US1 2026",
+      "Coral Gables US1 corporate headquarters consumer brands near Douglas Road station",
+      "companies offices near Douglas Road Metrorail Miami Underline Phase 3",
+      "Coral Gables edge retail lifestyle brands near Underline Metrorail corridor"
+    ]
+  },
+  {
+    "segment_id": "university_station",
+    "name": "University Station / Coral Gables",
+    "region": "Coral Gables / University of Miami",
+    "phase": 3,
+    "status": "phase3_construction_2026",
+    "route": "University Metrorail Station / UM campus / Miracle Mile adjacency",
+    "metrorail": ["University"],
+    "amenities": [],
+    "notes": "Phase 3 corridor at University station serves UM and Coral Gables Miracle Mile retail/office brands.",
+    "search_queries": [
+      "University Metrorail Coral Gables companies offices brands near Underline 2025 2026",
+      "Miracle Mile Coral Gables retail brands corporate offices near University station Miami",
+      "University of Miami area corporate tenants consumer brands near Underline Metrorail",
+      "Coral Gables headquarters CPG beverage healthcare brands near Underline corridor"
+    ]
+  },
+  {
+    "segment_id": "south_miami",
+    "name": "South Miami Station",
+    "region": "South Miami",
+    "phase": 3,
+    "status": "phase3_construction_2026",
+    "route": "South Miami Metrorail / downtown South Miami along US1",
+    "metrorail": ["South Miami"],
+    "amenities": [],
+    "notes": "Phase 3 through South Miami business district before Dadeland mall cluster.",
+    "search_queries": [
+      "South Miami Metrorail Underline companies offices retail brands headquarters 2025 2026",
+      "downtown South Miami Florida corporate tenants consumer brands near US1 Underline",
+      "South Miami Sunset Drive companies brand offices near Metrorail Underline Phase 3",
+      "brands headquarters South Miami Florida near Dadeland Underline corridor"
+    ]
+  },
+  {
+    "segment_id": "dadeland_north",
+    "name": "Dadeland North / Dadeland Mall",
+    "region": "Kendall / Dadeland",
+    "phase": 3,
+    "status": "phase3_construction_2026",
+    "route": "Dadeland North Metrorail / Dadeland Mall",
+    "metrorail": ["Dadeland North"],
+    "amenities": [],
+    "notes": "Phase 3 approaches Dadeland Mall — major regional retail with national brand tenants and nearby office parks.",
+    "search_queries": [
+      "Dadeland Mall Miami corporate tenants retail brands offices near Metrorail Underline 2026",
+      "Dadeland North station companies brand headquarters near Underline Phase 3",
+      "Simon Property Dadeland Mall brands tenants Miami consumer companies",
+      "Kendall Dadeland Miami offices CPG beverage lifestyle brands near Underline corridor"
+    ]
+  },
+  {
+    "segment_id": "dadeland_south",
+    "name": "Dadeland South Terminus",
+    "region": "Kendall / Dadeland",
+    "phase": 3,
+    "status": "phase3_construction_2026",
+    "route": "Dadeland South Metrorail Kiss and Ride — southern terminus of The Underline",
+    "metrorail": ["Dadeland South"],
+    "amenities": ["Kiss and Ride Facility"],
+    "notes": "Southern end of the 10-mile Underline (Phase 3 completion targeted 2026). Datran / office park and mall-adjacent employers.",
+    "search_queries": [
+      "Dadeland South Metrorail Underline terminus companies offices brands headquarters 2026",
+      "Datran Center Dadeland Miami corporate tenants consumer brands near Underline",
+      "companies near Dadeland South Kiss and Ride Miami Underline Phase 3",
+      "South Dade Kendall corporate offices retail brands near Dadeland Metrorail Underline"
+    ]
+  },
+  {
+    "segment_id": "brickell_office_core",
+    "name": "Brickell Office Core",
+    "region": "Brickell",
+    "phase": 1,
+    "status": "open",
+    "route": "Brickell Avenue / Brickell Bay Drive office towers within walking distance of Brickell Backyard",
+    "metrorail": ["Brickell"],
+    "amenities": ["Urban Gym", "Brickell City Centre"],
+    "notes": "Dense finance/tech/CPG office market feeding Phase 1 visitation. Includes 830 Brickell (Citadel interim HQ) and 1201 Brickell Bay Drive Citadel HQ under construction (2026).",
+    "search_queries": [
+      "Brickell Miami brand headquarters Chewy Nestle consumer companies offices near Underline 2026",
+      "Citadel 830 Brickell 1201 Brickell Bay Drive companies tenants near Underline",
+      "Brickell Avenue corporate tenants lifestyle CPG beverage tech brands Miami 2025 2026",
+      "companies relocating headquarters to Brickell Miami near Metrorail Underline park"
+    ]
+  }
+]

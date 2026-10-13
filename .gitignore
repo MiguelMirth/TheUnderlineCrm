@@ -1,0 +1,35 @@
+.venv/
+.venv.backup-*/
+.backups/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Local environment and secrets
+.env
+HANDOFF.md
+config/gmail_credentials.json
+config/gmail_token.json
+config/oauth/client_secret_*.json
+client_secret_*.json
+
+# Prospecting engine: SQLite database, WAL sidecars, and nightly backups (never commit operator data)
+data/engine/
+web/node_modules/
+web/dist/
+
+# Generated artifacts
+data/outputs/followup_candidates.json
+data/outputs/new_leads_snapshot.json
+data/outputs/new_leads_summary.txt
+data/outputs/research_targets_*.json
+data/outputs/research_report_*.json
+data/outputs/concert_spend_cache.json
+data/outputs/concert_spend_cache.json.tmp
+
+# Large Monday board snapshots (keep HITL JSON/MD in git if you want; exports are huge)
+data/archive/**/master_board_minimal_export*.json

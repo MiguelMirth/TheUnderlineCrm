@@ -1,0 +1,251 @@
+{
+  "data": {
+    "boards": [
+      {
+        "id": "18401545002",
+        "name": "The Underline | Master Outreach",
+        "columns": [
+          {
+            "id": "name",
+            "title": "Name",
+            "type": "name",
+            "settings_str": "{}"
+          },
+          {
+            "id": "status",
+            "title": "Lead Status",
+            "type": "status",
+            "settings_str": "{\"done_colors\":[1],\"color_mapping\":{\"6\":10,\"10\":102,\"102\":6},\"labels\":{\"0\":\"In Sequence\",\"1\":\"Replied\",\"2\":\"Not Interested\",\"3\":\"Meeting Set\",\"4\":\"Proposal Sent\",\"5\":\"Uncontacted\",\"6\":\"Bad Data/Bounced\"},\"labels_positions_v2\":{\"0\":1,\"1\":2,\"2\":5,\"3\":3,\"4\":4,\"5\":0,\"6\":6},\"labels_colors\":{\"0\":{\"color\":\"#fdab3d\",\"border\":\"#e99729\",\"var_name\":\"orange\"},\"1\":{\"color\":\"#00c875\",\"border\":\"#00b461\",\"var_name\":\"green-shadow\"},\"2\":{\"color\":\"#df2f4a\",\"border\":\"#ce3048\",\"var_name\":\"red-shadow\"},\"3\":{\"color\":\"#007eb5\",\"border\":\"#3db0df\",\"var_name\":\"blue-links\"},\"4\":{\"color\":\"#9d50dd\",\"border\":\"#9238af\",\"var_name\":\"purple\"},\"5\":{\"color\":\"#c4c4c4\",\"border\":\"#b0b0b0\",\"var_name\":\"grey\"},\"6\":{\"color\":\"#333333\",\"border\":\"#000\",\"var_name\":\"soft-black\"}}}"
+          },
+          {
+            "id": "color_mm0x44cb",
+            "title": "Outreach Stage",
+            "type": "status",
+            "settings_str": "{\"done_colors\":[1],\"color_mapping\":{\"0\":0,\"1\":110,\"2\":8,\"3\":3,\"4\":19,\"6\":11,\"7\":7,\"8\":2,\"9\":9,\"11\":13,\"13\":152,\"19\":4,\"107\":107,\"110\":1,\"152\":6,\"158\":158},\"labels\":{\"0\":\"Email 2 Sent\",\"1\":\"Email 1 Sent\",\"2\":\"Email 3 Sent\",\"3\":\"Email 4 Sent\",\"4\":\"Email 5 Sent\",\"6\":\"Completed (No Reply)\"},\"labels_positions_v2\":{\"0\":1,\"1\":0,\"2\":2,\"3\":3,\"4\":4,\"5\":6,\"6\":5},\"labels_colors\":{\"0\":{\"color\":\"#fdab3d\",\"border\":\"#e99729\",\"var_name\":\"orange\"},\"1\":{\"color\":\"#401694\",\"border\":\"#401694\",\"var_name\":\"dark_indigo\"},\"2\":{\"color\":\"#cab641\",\"border\":\"#c0ab31\",\"var_name\":\"mustered\"},\"3\":{\"color\":\"#007eb5\",\"border\":\"#3db0df\",\"var_name\":\"blue-links\"},\"4\":{\"color\":\"#ff6d3b\",\"border\":\"#e05828\",\"var_name\":\"dark-orange\"},\"6\":{\"color\":\"#bb3354\",\"border\":\"#a42d4a\",\"var_name\":\"dark-red\"}}}"
+          },
+          {
+            "id": "dropdown_mm0xx10b",
+            "title": "Vertical",
+            "type": "dropdown",
+            "settings_str": "{\"limit_select\":false,\"labels\":[{\"id\":1,\"name\":\"Fitness + Performance Beverages\"},{\"id\":2,\"name\":\"Retail CPG + QSR\"},{\"id\":3,\"name\":\"Lifestyle + Premium Beverage + Entertainment\"},{\"id\":4,\"name\":\"Finance + Banking\"},{\"id\":5,\"name\":\"Healthcare + Wellness\"},{\"id\":6,\"name\":\"Technology\"},{\"id\":7,\"name\":\"Telecom\"}],\"deactivated_labels\":[]}"
+          },
+          {
+            "id": "color_mm0xtvq2",
+            "title": "Interest Level",
+            "type": "status",
+            "settings_str": "{\"done_colors\":[1],\"labels\":{\"0\":\"Medium\",\"1\":\"High\",\"2\":\"Low\"},\"labels_colors\":{\"0\":{\"color\":\"#fdab3d\",\"border\":\"#e99729\",\"var_name\":\"orange\"},\"1\":{\"color\":\"#00c875\",\"border\":\"#00b461\",\"var_name\":\"green-shadow\"},\"2\":{\"color\":\"#df2f4a\",\"border\":\"#ce3048\",\"var_name\":\"red-shadow\"}}}"
+          },
+          {
+            "id": "text_mm0xz0w2",
+            "title": "Notes",
+            "type": "text",
+            "settings_str": "{}"
+          },
+          {
+            "id": "text_mm0xjngp",
+            "title": "First Name",
+            "type": "text",
+            "settings_str": "{}"
+          },
+          {
+            "id": "text_mm0xg7qz",
+            "title": "Last Name",
+            "type": "text",
+            "settings_str": "{}"
+          },
+          {
+            "id": "text_mm0xg2xb",
+            "title": "Title",
+            "type": "text",
+            "settings_str": "{}"
+          },
+          {
+            "id": "email_mm0xb00t",
+            "title": "Email",
+            "type": "email",
+            "settings_str": "{}"
+          },
+          {
+            "id": "date_mm0xerpc",
+            "title": "Last Contacted Date",
+            "type": "date",
+            "settings_str": "{}"
+          },
+          {
+            "id": "dropdown_mm0xqdp4",
+            "title": "Old Date Emailed",
+            "type": "dropdown",
+            "settings_str": "{\"limit_select\":false,\"hide_footer\":false,\"labels\":[{\"id\":10,\"name\":\"9/18/25\"},{\"id\":8,\"name\":\"7/24/25\"},{\"id\":9,\"name\":\"9/11/25\"},{\"id\":5,\"name\":\"7/1/25\"},{\"id\":6,\"name\":\"7/23/25\"},{\"id\":7,\"name\":\"5/7/25\"},{\"id\":4,\"name\":\"10/3/25\"},{\"id\":3,\"name\":\"5/8/25\"},{\"id\":1,\"name\":\"5/6/25\"},{\"id\":2,\"name\":\"5/27/25\"},{\"id\":11,\"name\":\"10/8/25\"},{\"id\":12,\"name\":\"10/27/25\"},{\"id\":13,\"name\":\"10/21/25\"},{\"id\":14,\"name\":\"11/3/25\"},{\"id\":15,\"name\":\"11/17/25\"},{\"id\":16,\"name\":\"12/2/25\"},{\"id\":17,\"name\":\"1/6/26\"},{\"id\":18,\"name\":\"1/8/26\"},{\"id\":19,\"name\":\"1/15/26\"},{\"id\":20,\"name\":\"1/20/26\"},{\"id\":21,\"name\":\"1/27/26\"},{\"id\":22,\"name\":\"2/2/26\"},{\"id\":23,\"name\":\"2/3/26\"},{\"id\":24,\"name\":\"2/4/26\"},{\"id\":25,\"name\":\"2/16/26\"},{\"id\":26,\"name\":\"2/17/26\"},{\"id\":27,\"name\":\"2/18/26\"},{\"id\":28,\"name\":\"2/24/26\"},{\"id\":29,\"name\":\"10/10/25\"},{\"id\":30,\"name\":\"12/3/25\"},{\"id\":31,\"name\":\"1/14/26\"},{\"id\":32,\"name\":\"11/10/25\"},{\"id\":33,\"name\":\"1/12/26\"},{\"id\":34,\"name\":\"2/9/26\"},{\"id\":35,\"name\":\"2/25/26\"},{\"id\":36,\"name\":\"2/23/26\"},{\"id\":37,\"name\":\"2/26/26\"},{\"id\":38,\"name\":\"10/11/25\"},{\"id\":39,\"name\":\"10/15/25\"},{\"id\":40,\"name\":\"11/19/25\"},{\"id\":41,\"name\":\"1/19/26\"},{\"id\":42,\"name\":\"1/9/26\"},{\"id\":43,\"name\":\"2/5/26\"},{\"id\":44,\"name\":\"2/6/26\"},{\"id\":45,\"name\":\"11/18/25\"},{\"id\":46,\"name\":\"1/14/25\"}],\"deactivated_labels\":[]}"
+          },
+          {
+            "id": "date_mm0x7ga4",
+            "title": "Next Action Date",
+            "type": "date",
+            "settings_str": "{}"
+          },
+          {
+            "id": "subtasks_mm0xjynv",
+            "title": "Subitems",
+            "type": "subtasks",
+            "settings_str": "{\"displayType\":\"BOARD_INLINE\",\"itemTypeName\":\"column.subtasks.title\",\"allowMultipleItems\":true,\"boardIds\":[18401547579]}"
+          },
+          {
+            "id": "text_mm0x49y",
+            "title": "Seniority",
+            "type": "text",
+            "settings_str": "{}"
+          },
+          {
+            "id": "dropdown_mm0x5x0q",
+            "title": "Record Type",
+            "type": "dropdown",
+            "settings_str": "{\"limit_select\":false,\"labels\":[{\"id\":1,\"name\":\"Contact\"},{\"id\":2,\"name\":\"Company\"}],\"deactivated_labels\":[]}"
+          },
+          {
+            "id": "text_mm0xcyag",
+            "title": "Departments",
+            "type": "text",
+            "settings_str": "{}"
+          },
+          {
+            "id": "tag_mm0xfaym",
+            "title": "Industry",
+            "type": "tags",
+            "settings_str": "{}"
+          },
+          {
+            "id": "custom_mm0x8p2m",
+            "title": "Activities",
+            "type": "unsupported",
+            "settings_str": "{}"
+          },
+          {
+            "id": "date_mm0xtr43",
+            "title": "Date Added",
+            "type": "date",
+            "settings_str": "{}"
+          },
+          {
+            "id": "color_mm0x1rk7",
+            "title": "Processing Status",
+            "type": "status",
+            "settings_str": "{\"done_colors\":[1],\"labels\":{\"0\":\"Working on it\",\"1\":\"Ready to process\",\"2\":\"Stuck\"},\"labels_colors\":{\"0\":{\"color\":\"#fdab3d\",\"border\":\"#e99729\",\"var_name\":\"orange\"},\"1\":{\"color\":\"#00c875\",\"border\":\"#00b461\",\"var_name\":\"green-shadow\"},\"2\":{\"color\":\"#df2f4a\",\"border\":\"#ce3048\",\"var_name\":\"red-shadow\"}}}"
+          },
+          {
+            "id": "text_mm0x3fbt",
+            "title": "# Employees",
+            "type": "text",
+            "settings_str": "{}"
+          },
+          {
+            "id": "text_mm0xa9x9",
+            "title": "Keywords",
+            "type": "text",
+            "settings_str": "{}"
+          },
+          {
+            "id": "text_mm0xyyzh",
+            "title": "Person Linkedin Url",
+            "type": "text",
+            "settings_str": "{}"
+          },
+          {
+            "id": "text_mm0xt1wm",
+            "title": "Website",
+            "type": "text",
+            "settings_str": "{}"
+          },
+          {
+            "id": "text_mm0xkdyw",
+            "title": "City",
+            "type": "text",
+            "settings_str": "{}"
+          },
+          {
+            "id": "text_mm0xrszg",
+            "title": "State",
+            "type": "text",
+            "settings_str": "{}"
+          },
+          {
+            "id": "text_mm0x4tb7",
+            "title": "Country",
+            "type": "text",
+            "settings_str": "{}"
+          },
+          {
+            "id": "text_mm0xhagj",
+            "title": "Company City",
+            "type": "text",
+            "settings_str": "{}"
+          },
+          {
+            "id": "text_mm0x89dc",
+            "title": "Company State",
+            "type": "text",
+            "settings_str": "{}"
+          },
+          {
+            "id": "text_mm0x8ssz",
+            "title": "Company Country",
+            "type": "text",
+            "settings_str": "{}"
+          },
+          {
+            "id": "text_mm0xtjd4",
+            "title": "Technologies",
+            "type": "text",
+            "settings_str": "{}"
+          },
+          {
+            "id": "numeric_mm0x7xfb",
+            "title": "Annual Revenue",
+            "type": "numbers",
+            "settings_str": "{\"hide_footer\":true,\"unit\":{\"symbol\":\"$\",\"custom_unit\":\"\",\"direction\":\"left\"}}"
+          }
+        ],
+        "groups": [
+          {
+            "id": "group_mm0xbmrj",
+            "title": "New Leads",
+            "position": "1280.0",
+            "archived": false
+          },
+          {
+            "id": "group_mm0x18c",
+            "title": "Active Outreach",
+            "position": "1344.0",
+            "archived": false
+          },
+          {
+            "id": "group_mm0xj5rd",
+            "title": "Engaged / Replied",
+            "position": "1408.0",
+            "archived": false
+          },
+          {
+            "id": "group_mm0xj1qw",
+            "title": "Meeting / Pipeline (Calls scheduled, proposals sent, and active negotiations)",
+            "position": "1504.0",
+            "archived": false
+          },
+          {
+            "id": "group_mm0xnfca",
+            "title": "Closed Won",
+            "position": "24576.0",
+            "archived": false
+          },
+          {
+            "id": "group_mm0xtvgg",
+            "title": "Disqualified (Not Interested, Blacklisted, or Bounced emails)",
+            "position": "49152.0",
+            "archived": false
+          }
+        ]
+      }
+    ]
+  },
+  "extensions": {
+    "request_id": "acd930d9-3bb7-95d8-8799-8a61144911c4"
+  }
+}
